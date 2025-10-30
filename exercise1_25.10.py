@@ -9,8 +9,10 @@ is_in_stock = True
 
 print(product_name)
 print(product_price)
+print(is_in_stock)
 print(type(product_name))
 print(type(product_price))
+print(type(is_in_stock))
 
 x, y, z = 20, 58, 97
 print(x, y, z)
